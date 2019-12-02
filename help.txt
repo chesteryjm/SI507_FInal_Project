@@ -1,0 +1,18 @@
+Command available:
+This program supports four commands. You can enter any of the four listed below to generate plots summarizing the movie data. The plots will be generated using plotly.
+
+directoraverage:
+
+        Provides you a bar chart of directors and the average rating of their films. Note that only the directors who have directed more than one film will be included in this graph.
+
+yeartrend:
+
+        Provides you a line chart of the number of top 250 movies released each year.
+
+actor:
+
+        Provides you a bar chart of actors and the total number of their top 250 films. Note that only the actors who have starred in more than one film will be included.
+
+contentrating:
+
+        Provides you a bar chart of the total number of top 250 films in each content rating. 
