@@ -11,7 +11,7 @@ Type python cjyang_finalproject.py in the command line to run the program.
 
 First, it takes some time for the program to initialize itself. Please be patient. Reading the cache file and generating tables in the database could take some time. 
 
-After the program is initialized, the user will be asked to write command in the interactive prompt. While running the program for the first time, please type "help" to see the available plotting command options. There are four plotting commands. The instructions are also available in the *help.txt* file.
+After the program is initialized, the user will be asked to write command in the interactive prompt. While running the program for the first time, please type "help" to see the available plotting command options. There are four plotting commands. The instructions are available in the *help.txt* file, and the program also use *help.txt* to display the help information. So please also download the *help.txt* file into your repo.
 
 ## Code Structure
 
